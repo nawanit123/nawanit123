@@ -14,7 +14,8 @@
 1. HTML
 2. CSS
 3. SASS
-4. Javascript
-5. React
-6. Nodejs with express
-7. MongoDB
+4. Bootstrap
+5. Javascript
+6. React
+7. Nodejs with express
+8. MongoDB
