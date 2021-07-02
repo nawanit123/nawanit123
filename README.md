@@ -1,8 +1,7 @@
 ### Hello there, its me Nawanit Sharma 👋
 
 - 🔭 I’m currently working with "Ignitiv Technologies Pvt. Ltd.".
-- 🌱 I’m currently learning typescript, react, nodejs with typescript.
-- 👯 I’m looking to collaborate on projects in mern stack.
+- 🌱 I’m currently understanding Ecommerce.
 - 💬 Ask me about javascript and web development.
 - 📫 How to reach me: You can reach me at my email sharma.nawanit123@gmail.com.
 - 😄 Pronouns: he/his
